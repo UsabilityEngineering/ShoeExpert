@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Nicholas Balint](https://github.com/UsabilityEngineering/ux-portfolio-NickBalint/)** - !!!List of Person A's primary contributions!!!
+* **[Nicholas Balint](https://usabilityengineering.github.io/ux-portfolio-NickBalint/)** - !!!List of Person A's primary contributions!!!
 * **[Nick Thompson](https://usabilityengineering.github.io/ux-portfolio-SupremeFonzie/)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
