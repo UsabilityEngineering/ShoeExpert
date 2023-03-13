@@ -21,24 +21,19 @@ Our project is called called Shoe Expert. It is a website where users would be a
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- Conducted user research to understand the needs and preferences of potential users of Shoe Expert.  
+- Analyzed the competition to identify similar websites and their strengths and weaknesses.  
+- Created wireframes to develop a visual layout of the website.  
+- Determined the features and functionalities that would differentiate Shoe Expert from its competitors.  
+- Identified the unique value proposition of Shoe Expert as a shoe recommendation website tailored to individual user needs and preferences.  
+- Defined the target audience for Shoe Expert and developed user personas to guide design and development decisions. 
 
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
-
-- Conducted user research to understand the needs and preferences of potential users of Shoe Expert.  
-- Analyzed the competition to identify similar websites and their strengths and weaknesses.  
-- Created wireframes to develop a visual layout of the website.  
-- Determined the features and functionalities that would differentiate Shoe Expert from its competitors.  
-- Identified the unique value proposition of Shoe Expert as a shoe recommendation website tailored to individual user needs and preferences.  
-- Defined the target audience for Shoe Expert and developed user personas to guide design and development decisions.  
-
+ 
 
 [Full phase II report](phaseII/)
 
