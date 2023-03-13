@@ -1,13 +1,13 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Shoe Expert!!!
+# Shoe Expert
 
-!!!Our project is called called Shoe Expert. It is a website where users would be able to put in information like their shoe size, use case for the shoes (running, walking triatholons, etc.), colors, etc. and the website will reccomend a list of shoes and where you can buy them. The problem this is trying to solve is that it can be difficult to know which shoes are best for different circumstances and for different size feet, so this website is supposed to help alieviate the problem. !!!
+Our project is called called Shoe Expert. It is a website where users would be able to put in information like their shoe size, use case for the shoes (running, walking triatholons, etc.), colors, etc. and the website will reccomend a list of shoes and where you can buy them. The problem this is trying to solve is that it can be difficult to know which shoes are best for different circumstances and for different size feet, so this website is supposed to help alieviate the problem.
 
 ## UX Team Members
 
-* **[Nicholas Balint](https://usabilityengineering.github.io/ux-portfolio-NickBalint/)** - !!!List of Person A's primary contributions!!!
-* **[Nick Thompson](https://usabilityengineering.github.io/ux-portfolio-SupremeFonzie/)** - !!!List of Person B's primary contributions!!!
+* **[Nicholas Balint](https://usabilityengineering.github.io/ux-portfolio-NickBalint/)**  
+* **[Nick Thompson](https://usabilityengineering.github.io/ux-portfolio-SupremeFonzie/)**  
 
 # User-Centered Design Artifacts
  
