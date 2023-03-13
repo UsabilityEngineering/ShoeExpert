@@ -1,4 +1,4 @@
 # Sketches
 
 * **[Sketch1](https://raw.githubusercontent.com/UsabilityEngineering/ShoeExpert/6a1e003398f0671f36f41c7f43810aa1486a0fdd/sketches/IMG_2981.jpeg)**  
-* ** ![Sketch2](/UsabilityEngineering/sketches/shoe_expert_sketch.jpg)**
+* **[Sketch2](https://github.com/UsabilityEngineering/ShoeExpert/blob/main/sketches/shoe_expert_sketch.jpg)**
