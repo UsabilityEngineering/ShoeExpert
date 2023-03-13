@@ -1,7 +1,7 @@
 # Personas
 
 Persona (1):  
-Jack. 
+Jack  
 21 Year Old Male in Los Angeles, California  
 College student at UCLA  
 
@@ -16,7 +16,7 @@ Goals:
 - Find good shoes for triathlons.  
 
 Persona (2):  
-Summer.  
+Summer   
 40 year old female living in Malibu, California  
 Married stay at home mom, with a Bachelors in exercise physiology  
 
