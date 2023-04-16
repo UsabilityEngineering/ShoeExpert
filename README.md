@@ -32,10 +32,14 @@ Our project is called called Shoe Expert. It is a website where users would be a
 
 **Executive Summary**
 
-!!!In a bullet-list, provide a summary that highlights...!!!
-!!!What you've done during this phase...!!!
-!!!and what the significance of it is...!!!
-!!!as an executive would understand.!!! 
+- Phase II focused on enhancing the user experience (UX) of the application.  
+- Activities included wireframe design, cognitive walkthroughs, and gathering informal user feedback.  
+- Wireframes served as visual representations of the application's layout and functionality, helping to refine the design and flow.  
+- Cognitive walkthroughs identified strengths in usability such as intuitive navigation and clear call-to-actions, as well as areas for improvement, including expanding functionality and enhancing visual design.  
+- Informal user feedback provided valuable insights into user experience.  
+- Feedback from these activities played a crucial role in identifying strengths and weaknesses, and informed design decisions for further improvements.  
+- Continual gathering of diverse user feedback is important to ensure usability and effectiveness for the intended audience.  
+- Overall, the project is progressing positively towards delivering a high-quality, user-friendly application that meets the needs of its users.  
 
 [Full phase II report](phaseII/)
 
