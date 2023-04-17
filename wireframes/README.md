@@ -1,4 +1,4 @@
-# Setting Up Users on the Nintendo Switch
+# Wireframes
 
 By Nick Thompson and Nicholas Balint 4/16/2023
 
