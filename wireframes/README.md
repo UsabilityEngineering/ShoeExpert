@@ -12,7 +12,7 @@ The page that shows men's shoes
 ![filters](UsabilityEngineering/ShoeExpert/Assets/Filters.jpg)
 This page shows some of the avaliable filters 
 
-![filters (expanded)](UsabilityEngineering/ShoeExpert/Assets/Filters (expanded).jpg)
+![filters_expanded](UsabilityEngineering/ShoeExpert/Assets/Filters_expanded.jpg)
 This page shows one of the catagories of filters expanded
 
 ![profile](UsabilityEngineering/ShoeExpert/Assets/Profile.jpg)
