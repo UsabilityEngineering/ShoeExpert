@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Phase II of the project aimed at enhancing the user experience (UX) of our application. We conducted several activities, including designing wireframes, and gathering informal user feedback from the SE and UX team.
+The Phase II of the project aimed at enhancing the user experience (UX) of our application. We conducted several activities, including designing wireframes and gathering informal user feedback from the SE and UX team.
 
 ## Methods
 
@@ -26,4 +26,8 @@ Phase II of the project involved wireframe design, cognitive walkthroughs, and i
 
 ## Caveats
 
-The cognitive walkthrough was done by fellow students and the SE team. Not giving us a broad view, because it was on
+The wireframe is not the official or finished version of a website. It is not something we would have users beta test it is just used to get a general idea across.
+
+The cognitive walkthrough was done by fellow students and the SE team. Not giving us a broad view, because it was a very small sample of people who are developing their own projects and know how the process is done. 
+
+The informal feedback was done by a small group of peers and we only got feedback from about 2 or 3 people. Generally, we would hope to have more people look over it and get more sources of feedback. 
