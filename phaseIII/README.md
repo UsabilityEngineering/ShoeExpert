@@ -2,11 +2,19 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The general problem that our project is trying to solve is the creation of an efficient and user-friendly shoe website. The focus of this interval of work, Phase 3, was to develop a functional prototype of the website and gather user feedback through usability testing.  
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+- Prototype Development: We utilized Adobe XD to create a functioning prototype of the shoe website. This involved designing the website's layout, implementing interactive features, and integrating sample shoe products.  
+
+- Usability Testing: We conducted usability tests with our classmates as participants. The purpose of these tests was to observe how users interacted with the prototype and gather their feedback on various aspects such as navigation, search functionality, product details, and overall user experience.  
+
+- Test Scenario Design: We created realistic test scenarios for participants to perform specific tasks on the prototype. These scenarios were designed to simulate real-world usage scenarios and allowed us to assess the effectiveness and efficiency of the website's features.  
+
+- Data Collection: During the usability tests, we collected both qualitative and quantitative data. Qualitative data included participants' observations, comments, and suggestions, which were recorded through direct observations and post-task interviews. Additionally, we used quantitative measures such as task completion time and success rates to assess the usability of the prototype.  
+
+- Data Analysis: We analyzed the collected data by reviewing observations, comments, and suggestions from participants. We identified common themes and patterns in their feedback to gain insights into usability issues, strengths, and areas for improvement in the prototype.  
 
 ## Findings
 
