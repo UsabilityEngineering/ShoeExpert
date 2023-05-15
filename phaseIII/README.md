@@ -35,3 +35,9 @@ The general problem that our project is trying to solve is the creation of an ef
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+
+- Limited User Demographics: The usability tests conducted during this phase involved a specific demographic of classmates. While valuable insights were gained, it is important to acknowledge that these findings may not represent the preferences and needs of a broader user population. Future research should aim to include participants from diverse backgrounds and demographics to obtain a more comprehensive understanding of user needs.  
+
+- Assumptions about User Feedback: The findings and conclusions drawn from the usability tests are based on users' direct feedback. However, individual opinions and preferences may vary. It is important to consider the range of user feedback and balance it with best practices in UX design when making decisions for future work.  
+
+- Limitations of Prototype Testing: The prototype used in the usability tests was a functional but limited representation of the final website. Certain features and functionalities may not have been fully explored or implemented in the prototype, which could influence user perceptions and feedback. Further testing with a more complete and refined prototype is recommended for more accurate insights.  
