@@ -51,5 +51,8 @@ Our project is called called Shoe Expert. It is a website where users would be a
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
+- Developed a functional prototype of the shoe website.  
+- Conducted usability tests with classmates to gather user feedback on the prototype.  
+- Significance: This phase helped us to test and validate our ideas, identify potential issues and improve the user experience of the website, resulting in a better end product.  
 
 [Full phase III report](phaseIII/)
