@@ -20,9 +20,9 @@ The general problem that our project is trying to solve is the creation of an ef
 
 - Users found the overall design and layout of the prototype visually appealing and intuitive.
 
-- Filter Button Visibility: Users had difficulty spotting the filter button initially. This indicates a potential issue with the visibility or placement of the filter button within the interface. Improving the visual prominence and clarity of the filter button could help users easily locate and utilize this important feature.  
+- Users had difficulty spotting the filter button initially. This indicates a potential issue with the visibility or placement of the filter button within the interface. Improving the visual prominence and clarity of the filter button could help users easily locate and utilize this important feature.  
 
-- Appreciation for Simplistic Design: Users expressed appreciation for the simplistic design of the website. This feedback suggests that the clean and uncluttered interface resonated well with users. Continuing to prioritize simplicity in the design approach is recommended to maintain a positive user experience.  
+- Users expressed appreciation for the simplistic design of the website. This feedback suggests that the clean and uncluttered interface resonated well with users. Continuing to prioritize simplicity in the design approach is recommended to maintain a positive user experience.  
 
 - Users expressed a desire for more detailed product descriptions, including materials used, sizing information, and customer reviews.  
 
