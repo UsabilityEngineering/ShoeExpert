@@ -30,7 +30,7 @@ In Phase III of the project, we build upon the progress made in Phase II, with a
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Phase III of the project builds upon Phase II, incorporating methods such as wireframe design, cognitive walkthroughs, and user feedback from prototype testing to enhance the website’s usability. There was important information gained from the user’s insights about these activities that allowed us to identify strengths such as strong, simplistic, and fast loading times. Users also gave us areas to improve on such as making the filters more accessible and easy to use, as well as having the ability to expand on shoes and see more pictures and details. Moving on we plan to add these features to our final website.
 
 ## Caveats
 
