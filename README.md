@@ -47,12 +47,12 @@ Our project is called called Shoe Expert. It is a website where users would be a
 
 **Executive Summary**
 
--Phase III focused on enhancing the user experience (UX) of the website through prototype development and user testing.
--Refined wireframes provided visual representations of the website's layout and interactive features, guiding design improvements.
--Usability tests allowed us to observe user interactions and gather feedback on navigation, functionality, and overall user experience.
--Valuable insights from user feedback informed design decisions and identified areas for improvement in the prototype. Such as an expanded view of the details of different shoes and an easier-to-find filter bar with more functionality
--Continued user feedback collection remains crucial to ensure a user-centric and effective website for the target audience.
--The project is making significant progress towards delivering a high-quality website that prioritizes user satisfaction and meets their needs effectively.
+- Phase III focused on enhancing the user experience (UX) of the website through prototype development and user testing.
+- Refined wireframes provided visual representations of the website's layout and interactive features, guiding design improvements.
+- Usability tests allowed us to observe user interactions and gather feedback on navigation, functionality, and overall user experience.
+- Valuable insights from user feedback informed design decisions and identified areas for improvement in the prototype. Such as an expanded view of the details of different shoes and an easier-to-find filter bar with more functionality
+- Continued user feedback collection remains crucial to ensure a user-centric and effective website for the target audience.
+- The project is making significant progress towards delivering a high-quality website that prioritizes user satisfaction and meets their needs effectively.
 
 
 [Full phase III report](phaseIII/)
