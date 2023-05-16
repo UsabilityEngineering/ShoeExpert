@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In Phase III of the project, we build upon the progress made in Phase II, with a primary focus on enhancing the user experience of our website using prototypes. This phase includes activities like refining wireframes and actively involving users in testing a prototype that closely resembles the actual website, allowing us to gather valuable feedback and insights.
+The Phase II of the project aimed at enhancing the user experience (UX) of our application. We conducted several activities, including designing wireframes and gathering informal user feedback from the SE and UX team.
 
 ## Methods
 
