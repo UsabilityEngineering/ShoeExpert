@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The general problem that our project is trying to solve is the creation of an efficient and user-friendly shoe website. The focus of this interval of work, Phase 3, was to develop a functional prototype of the website and gather user feedback through usability testing.  
+In Phase III of the project, we build upon the progress made in Phase II, with a primary focus on enhancing the user experience of our website using prototypes. This phase includes activities like refining wireframes and actively involving users in testing a prototype that closely resembles the actual website, allowing us to gather valuable feedback and insights.  
 
 ## Methods
 
