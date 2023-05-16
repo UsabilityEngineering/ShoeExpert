@@ -47,12 +47,12 @@ Our project is called called Shoe Expert. It is a website where users would be a
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-- Developed a functional prototype of the shoe website.  
-- Conducted usability tests with classmates to gather user feedback on the prototype.  
-- Significance: This phase helped us to test and validate our ideas, identify potential issues and improve the user experience of the website, resulting in a better end product.  
+-Phase III focused on enhancing the user experience (UX) of the website through prototype development and user testing.
+-Refined wireframes provided visual representations of the website's layout and interactive features, guiding design improvements.
+-Usability tests allowed us to observe user interactions and gather feedback on navigation, functionality, and overall user experience.
+-Valuable insights from user feedback informed design decisions and identified areas for improvement in the prototype. Such as an expanded view of the details of different shoes and an easier-to-find filter bar with more functionality
+-Continued user feedback collection remains crucial to ensure a user-centric and effective website for the target audience.
+-The project is making significant progress towards delivering a high-quality website that prioritizes user satisfaction and meets their needs effectively.
+
 
 [Full phase III report](phaseIII/)
